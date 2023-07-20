@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**noahspoling/noahspoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate in Computer and Information Science. My Github right now is mainly personal projects.
 
-Here are some ideas to get you started:
+## Languages I'm familiar with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. JavaScript/TypeScript
+2. HTML/CSS
+3. Java
+4. Python
+5. C/C++ (Mostly educational on how low level systems work)
+6. Bash
+7. Lua
+8. Php
+
+## Frameworks/Libraries
+
+1. React
+2. Spring
+3. Express
+4. ArrowJS
+5. Flask
+6. XAMPP

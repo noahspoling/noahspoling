@@ -9,9 +9,10 @@ I am a recent graduate in Computer and Information Science. My Github right now 
 3. Java
 4. Python
 5. C/C++ (Mostly educational on how low level systems work)
-6. Bash
-7. Lua
-8. Php
+6. C#
+7. Bash
+8. Lua
+9. Php
 
 ## Frameworks/Libraries
 
@@ -21,3 +22,4 @@ I am a recent graduate in Computer and Information Science. My Github right now 
 4. ArrowJS
 5. Flask
 6. XAMPP
+7. ASP.NET

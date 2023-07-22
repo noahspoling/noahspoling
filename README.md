@@ -23,3 +23,8 @@ I am a recent graduate in Computer and Information Science. My Github right now 
 5. Flask
 6. XAMPP
 7. ASP.NET
+
+## Noteable non-project repos
+
+### [dddProjectBuilder](https://github.com/noahspoling/dddProjectBuilder)
+Automates the build process for a domain driven design project using an angular application for the frontend

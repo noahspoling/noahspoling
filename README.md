@@ -2,27 +2,24 @@
 
 I am a recent graduate in Computer and Information Science. My Github right now is mainly personal projects.
 
-## Languages I'm familiar with
+## Core Languages I work with
 
 1. JavaScript/TypeScript
 2. HTML/CSS
-3. Java
 4. Python
-5. C/C++ (Mostly educational on how low level systems work)
+5. C/C++
 6. C#
 7. Bash
 8. Lua
-9. Php
 
 ## Frameworks/Libraries
 
 1. React
-2. Spring
+2. HTMX
 3. Express
 4. ArrowJS
 5. Flask
-6. XAMPP
-7. ASP.NET
+7. .NET
 
 ## Noteable non-project repos
 
